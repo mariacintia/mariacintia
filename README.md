@@ -23,6 +23,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariacintia)
 
+### 🌱 Curiosidades
+
+- Gosto de projetos com impacto social 🌍
+- Adoro refatorar código e deixar tudo organizadinho 🧼
+- Aprendo melhor colocando a mão na massa 🔧
+
+
   </td>
 
   <!-- COLUNA DIREITA: AVATAR + ESTATÍSTICAS + BADGES -->
