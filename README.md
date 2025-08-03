@@ -1,6 +1,13 @@
 <p align="center">
-  <!-- Se quiser colocar um avatar futuramente, substitua o link abaixo -->
-  <img src="icon.png" width="180" alt="Cintia Superpoderosa">
+  <img src="avatar.png" width="180" alt="">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mariacintia&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mariacintia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacintia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 <h1 align="center">Oi, eu sou a Cintia! 💖</h1>
@@ -34,16 +41,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
 </div>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariacintia&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mariacintia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacintia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
 
 ---
 
