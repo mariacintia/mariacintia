@@ -28,7 +28,7 @@
   <!-- COLUNA DIREITA: AVATAR + ESTATÍSTICAS + BADGES -->
   <td width="50%" align="center" valign="top">
 
-<img src="avatar.png" width="150" alt="Cintia bonequinha" />
+<img src="avatar.png" width="200"/>
 
 <br><br>
 
