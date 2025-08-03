@@ -1,24 +1,13 @@
-<p align="center">
-  <img src="avatar.png" width="180" alt="">
-</p>
+<table>
+  <tr>
+    <!-- COLUNA ESQUERDA: TEXTOS -->
+    <td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariacintia&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mariacintia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacintia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
+<h1>Oi, eu sou a Cintia! 💖</h1>
 
-<h1 align="center">Oi, eu sou a Cintia! 💖</h1>
-
-<p align="center">
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-  <br>
-  💻 Desenvolvedora em formação  
-  <br>
-  🌸 Curiosa por IA e dados
-</p>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Desenvolvedora em formação  
+🌸 Curiosa por IA e dados  
 
 ---
 
@@ -30,7 +19,26 @@
 
 ---
 
-### 🛠️ Tecnologias que uso/estudo
+### 💼 Contato profissional
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariacintia)
+
+  </td>
+
+  <!-- COLUNA DIREITA: AVATAR + ESTATÍSTICAS + BADGES -->
+  <td width="50%" align="center" valign="top">
+
+<img src="avatar.png" width="150" alt="Cintia bonequinha" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=mariacintia&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mariacintia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariacintia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+
+<br><br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
@@ -42,12 +50,6 @@
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
 </div>
 
----
-
-### 💼 Contato profissional
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mariacintia">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+  </td>
+  </tr>
+</table>
